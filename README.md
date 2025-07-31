@@ -1,4 +1,4 @@
-📌 Project Description
+📌 Project Description:
 This is a deep learning project to classify animal images. It automatically detects whether the image contains a cat or a dog using a trained CNN model. The model learns from thousands of example images and gives accurate results on new unseen images.
 
 🎯 Objective
